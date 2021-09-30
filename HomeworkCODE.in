@@ -1,0 +1,38 @@
+
+// 4 july
+1: W.A.P to get sum of 3 numbers
+2: W.A.P to print maximum number of 2 numbers. hint : if(a>b)
+3: w.a.p to find number is negative or not . hint : if(a<0)
+4: apply all logical operator in a single program
+5: w.a.p to print "Hello World" if given number is in range 0 to 100. hint if(a>=0 && a<=100)
+
+
+// 6 july
+1: w.a.p to find wheather a person is minor or not.
+2: w.a.p to convert -ve number to +ve. hint Multiply -ve number with -1
+3: w.a.p with switch month
+4: w.a.p with nested switch 
+
+
+// 8 july
+/*
+	start:
+
+	printf("Enter 2 num : ");
+	scanf("%d,%d",&a,&b);
+
+	pf("%d + %d = %d \n",a,b,a+b);
+
+	pf("do you want to repeat [y/n]: ");
+	sf("%c",&choice);
+
+	if(choice=='y' || choice =='Y')
+		goto start;
+
+*/
+
+// 9 july
+1. w.a.p to find minimum number from given array.
+2. w.a.p to find the avarage of given nth data.
+3. w.a.p to sort the array.
+4. w.a.p to print the all character of given array like 65 = 'A' //printf("%d : %c\n",a[i],a[i]);

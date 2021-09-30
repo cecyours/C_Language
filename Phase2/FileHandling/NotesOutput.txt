@@ -1,0 +1,35 @@
+
+
+>>  FFiillee  ::  FFiillee  iiss  aa  ccoolllleeccttiioonn  ooff  FFaacctt  wwiitthh  eexxtteennssiioonn  lliikkee  ..ppddff  ,,  ..mmdd,,  ..jjppgg,,  ..ppmm33,,  ..cc,,  ..ccpppp  eettcc
+
+
+
+####  MMooddeess  ooff  FFiillee  
+
+
+
+rr  ::  rreeaadd    -->>  RReettuurrnn  NNUULLLL  iiff  FFiillee  DDooeessnn''tt  eexxiissttss
+
+
+
+ww  ::  wwrriittee      -->>    ccrreeaattee  tthhee  ffiillee  IIff  DDoonn''tt  eexxiissttss..  
+
+
+
+aa  ::  aappppeenndd  -->>  aappppeenndd  tthhee  ddaattaa  ttoo  eenndd  ooff  ffiillee....
+
+
+
+----------------------------
+
+
+
+rr++::  rreeaadd//wwrriittee
+
+
+
+ww++::  wwrriittee//rreeaadd  
+
+
+
+aa++::  aappppeenndd//rreeaadd
